@@ -26,11 +26,19 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Babel Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-loader.md)
 
+- [CSS Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/css-loader.md)
+
+- [node-sass](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/node-sass.md)
+
 - [prop-types](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prop-types.md)
 
 - [React](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react.md)
 
 - [react-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-dom.md)
+
+- [Sass Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sass-loader.md)
+
+- [Style Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/style-loader.md)
 
 - [webpack](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack.md)
 
