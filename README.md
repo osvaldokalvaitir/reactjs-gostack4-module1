@@ -18,6 +18,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [@babel/core](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-core.md)
 
+- [@babel/plugin-proposal-class-properties](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-plugin-proposal-class-properties.md)
+
 - [@babel/preset-env](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-preset-env.md)
 
 - [@babel/preset-react](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-preset-react.md)
