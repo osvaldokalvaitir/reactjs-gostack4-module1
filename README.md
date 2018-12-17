@@ -24,6 +24,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Babel Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-loader.md)
 
+- [prop-types](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prop-types.md)
+
 - [React](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react.md)
 
 - [react-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-dom.md)
