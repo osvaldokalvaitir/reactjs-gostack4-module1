@@ -26,7 +26,11 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Babel Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-loader.md)
 
+- [babel-eslint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-eslint.md)
+
 - [CSS Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/css-loader.md)
+
+- [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
 
 - [node-sass](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/node-sass.md)
 
