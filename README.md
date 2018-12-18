@@ -34,6 +34,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [node-sass](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/node-sass.md)
 
+- [prettier-eslint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prettier-eslint.md)
+
 - [prop-types](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prop-types.md)
 
 - [React](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react.md)

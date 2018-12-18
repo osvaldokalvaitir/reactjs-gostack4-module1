@@ -1,8 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Button = props => (
-  <button type="submit" onClick={props.onClick}>{props.children}</button>
+const Button = ({ onClick, children }) => (
+  <button type="submit" onClick={onClick}>
+    {children}
+  </button>
 );
 
 Button.defaultProps = {

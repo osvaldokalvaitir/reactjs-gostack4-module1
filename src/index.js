@@ -11,16 +11,20 @@ class App extends Component {
   };
 
   handleClick = () => {
+    const { counter } = this.state;
+
     this.setState({
-      counter: this.state.counter + 1,
+      counter: counter + 1,
     });
   };
 
   render() {
+    const { counter } = this.state;
+
     return (
       <Fragment>
         <h1 className="title">Hello World</h1>
-        <h2 style={{ color: '#f00' }}>{this.state.counter}</h2>
+        <h2 style={{ color: '#f00' }}>{counter}</h2>
         <Button onClick={this.handleClick}>Somar</Button>
       </Fragment>
     );
