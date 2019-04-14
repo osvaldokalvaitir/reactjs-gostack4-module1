@@ -22,6 +22,8 @@ Aplicação usando ReactJS, Babel, Webpack, prop-types, Style Loader, CSS Loader
 
   - [Execução do Projeto](#execução-do-projeto)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
 
 ## Desenvolvimento
@@ -37,6 +39,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Execução do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
+
+## Utilizados no Projeto
 
 ### Bibliotecas
 
