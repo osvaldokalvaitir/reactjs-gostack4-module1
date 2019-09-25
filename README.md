@@ -25,6 +25,8 @@ Aplicação usando ReactJS, Babel, Webpack, prop-types, Style Loader, CSS Loader
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
+  
+  - [Ferramentas](#ferramentas)
 
 ## Desenvolvimento
 
@@ -79,3 +81,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [webpack-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack-cli.md)
 
 - [webpack-dev-server](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack-dev-server.md)
+
+### Ferramentas
+
+- [React Developer Tools](https://github.com/osvaldokalvaitir/projects-settings/blob/master/browser/chrome/extensions/react-developer-tools.md)
