@@ -1,87 +1,57 @@
-# ReactJS - Módulo 1
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-modulo1/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-modulo1.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-modulo1.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-modulo1.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-modulo1.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-modulo1.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-modulo1.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  ReactJS - GoStack 4 Module 1
+</h3>
 
-Aplicação usando ReactJS, Babel, Webpack, prop-types, Style Loader, CSS Loader, Sass Loader, EditorConfig, React DevTools, ESLint e Prettier.
+<p align="center">
+  :page_facing_up: Application using ReactJS, Babel, Webpack, prop-types, Style Loader, CSS Loader, Sass Loader, EditorConfig, React DevTools, ESLint, Prettier and React Developer Tools
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-gostack4-module1.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-gostack4-module1.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Execução do Projeto](#execução-do-projeto)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
-  
-  - [Ferramentas](#ferramentas)
+Open terminal:
 
-## Desenvolvimento
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/reactjs-gostack4-module1
 
-### Configuração do Ambiente
+# Entry in folder
+cd reactjs-gostack4-module1
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+# Install deps with npm or yarn
+npm install | yarn
 
-### Instalação do Projeto
+# Launch the app with npm or yarn
+npm dev | yarn dev
+```
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+## :memo: License
 
-### Execução do Projeto
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack.md) e siga `Execução de Projeto para Desenvolvimento`.
+---
 
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [@babel/core](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-core.md)
-
-- [@babel/plugin-proposal-class-properties](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-plugin-proposal-class-properties.md)
-
-- [@babel/preset-env](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-preset-env.md)
-
-- [@babel/preset-react](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@babel-preset-react.md)
-
-- [Babel Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-loader.md)
-
-- [babel-eslint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-eslint.md)
-
-- [CSS Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/css-loader.md)
-
-- [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
-
-- [node-sass](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/node-sass.md)
-
-- [prettier-eslint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prettier-eslint.md)
-
-- [prop-types](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prop-types.md)
-
-- [React](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react.md)
-
-- [react-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-dom.md)
-
-- [Sass Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sass-loader.md)
-
-- [Style Loader](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/style-loader.md)
-
-- [webpack](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack.md)
-
-- [webpack-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack-cli.md)
-
-- [webpack-dev-server](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/webpack-dev-server.md)
-
-### Ferramentas
-
-- [React Developer Tools](https://github.com/osvaldokalvaitir/projects-settings/blob/master/browser/chrome/extensions/react-developer-tools.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
